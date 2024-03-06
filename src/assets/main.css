@@ -1,0 +1,14 @@
+@import './base.css';
+
+body {
+  margin: 0;
+  font-family: "Darker Grotesque", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+#app {
+  height: 100vh;
+  font-family: "Darker Grotesque", sans-serif;
+}
